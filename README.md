@@ -1,2 +1,2 @@
 # Fatoracao-LU
- Algoritmo para decomposição LU de matrizes não nulas
+ Algoritmo de decomposição LU para matrizes quadradas não nulas
